@@ -1,12 +1,16 @@
-# DSA-Practice-
-DSA Practice 💻🔥 
-This repo is my daily grind for getting better at Data Structures & Algorithms.  
-I solve problems, learn new concepts, and try to improve step by step. 
+# DSA Practice 🚀
 
-💡 Why this repo?
-- Build consistency - Improve logic - Prepare for coding interviews
-- 
--  🛠 Languages: C, C++
--  
--    📍 Platforms: LeetCode 
-Still learning, still growing 🚀
+I solve DSA problems daily to improve problem-solving skills.
+
+## Platforms
+- LeetCode
+- Codeforces
+
+## Topics Covered
+- Arrays
+- Strings
+- Dynamic Programming
+- Graphs
+
+## Goal
+Solve 300+ problems before placements.
