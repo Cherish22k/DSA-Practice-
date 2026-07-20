@@ -12,6 +12,9 @@ Given a string containing '()[]{}', determine if it is valid.
 - Time: O(n)
 - Space: O(n)2
 
+##Difficulty 
+- Medium
+
 
 #Code
 class Solution:
