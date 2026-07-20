@@ -13,7 +13,7 @@ Merge two sorted linked lists into one sorted list.
 - Space: O(1)
 
 ##Difficulty 
-- Medium 
+- Easy
 
 class Solution:
     def mergeTwoLists(self, list1, list2):
