@@ -62,6 +62,10 @@ Subarray `[4, -1, 2, 1]` has the maximum sum = 6
 
 ---
 
+##Difficulty 
+Easy
+
+
 ## 🚀 Key Learnings
 
 * Greedy approach
