@@ -13,7 +13,7 @@ Given a string containing '()[]{}', determine if it is valid.
 - Space: O(n)2
 
 ##Difficulty 
-- Medium
+- Easy
 
 
 #Code
