@@ -44,3 +44,5 @@ Why this works:
 - Handles different list lengths and carry efficiently
 """
 ```
+# Difficulty:
+EASY 
