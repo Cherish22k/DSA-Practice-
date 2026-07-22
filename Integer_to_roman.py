@@ -104,6 +104,9 @@ class Solution:
 
 ---
 
+#Difficulty 
+Medium
+
 ## 🚀 Key Takeaways
 
 * Greedy approach works perfectly for Roman numeral conversion.
