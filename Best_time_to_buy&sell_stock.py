@@ -89,6 +89,9 @@ class Solution:
 
 ---
 
+#Diffculty:
+Medium
+    
 ---
 
 ✨ This problem is a great example of how optimizing from brute force to an efficient approach can significantly improve performance.
