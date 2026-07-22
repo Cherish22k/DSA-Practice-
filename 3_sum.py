@@ -113,6 +113,10 @@ nums = [-1,0,1,2,-1,-4]
 
 ---
 
+#Difficulty:
+Medium
+
+
 ## 🚀 Key Takeaways
 
 * Sorting helps reduce complexity from `O(n³)` → `O(n²)`
